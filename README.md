@@ -9,6 +9,8 @@ I'm a Pentester at [TCS](https://www.tcs.com). I love system administration. I a
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-+91--9492759420-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=tel:+919492759420)](tel:+919492759420)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aayush420&count_private=true&show_icons=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aayush420)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush420)
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
