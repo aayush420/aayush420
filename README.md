@@ -6,11 +6,11 @@ I'm a Pentester at [TCS](https://www.tcs.com). I love system administration. I a
 [![GitHub Badge](https://img.shields.io/badge/GitHub-aayush420-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/aayush420)](https://github.com/aayush420)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-thisis420-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/thisis420)](https://twitter.com/thisis420)
 [![GMail Badge](https://img.shields.io/badge/Gmail-balkripra.1996@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:balkripra.1996@gmail.com)](mailto:balkripra.1996@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-+91--9492759420-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=tel:+919492759420)](tel:+919492759420)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-+91--9492759420-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=tel:+919492759420)](https://wa.me/919492759420?text=I%20saw%20your%20GitHub%20Profile%20and%20I%20think%20it%20looks%20impressive!)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aayush420&count_private=true&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush420)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aayush420)
+<!-- ![Github Stats](https://github-readme-stats.vercel.appINVALIDALINK/api?username=aayush420&count_private=true&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.appINVALIDALINK/api/top-langs/?username=aayush420)
+![Streak](https://github-readme-streak-stats.herokuapp.comINVALIDALINK/?user=aayush420) -->
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
