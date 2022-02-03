@@ -41,6 +41,8 @@ I'm a Pentester at [TCS](https://www.tcs.com). I love system administration. I a
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 
+## 📕 Latest Blog Posts
+- [Deploying Laravel 8 on Apache & Ubuntu 20.04 LTS with extra security (Modsecurity and Fail2ban)](https://bala420.medium.com/deploying-laravel-8-on-apache-ubuntu-20-04-lts-with-extra-security-modsecurity-and-fail2ban-e6f07c3f1dc8)
 
 <!--
 **aayush420/aayush420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
