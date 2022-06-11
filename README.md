@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Pentester at [TCS](https://www.tcs.com). I love system administration. I also love programming in Python (Vanilla, Django & Flask), JavaScript (Vanilla & Vue), Go, PHP & C. So, if you need help on any contribution to the community, count me in...
+I love system administration. I also love programming in Python (Vanilla, Django & Flask), JavaScript (Vanilla & Vue), Go, PHP & C. So, if you need help on any contribution to the community, count me in...
 
 #### 📫 Here's how to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-BalaKrishna--prasad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/balakrishna-prasad/)](https://www.linkedin.com/in/balakrishna-prasad/) 
